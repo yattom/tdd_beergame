@@ -1,5 +1,7 @@
 #encoding: utf8
 
+from beergame import *
+
 def test_beergame():
     bd = 盤.new()
     第1週 = bd.process_week()
