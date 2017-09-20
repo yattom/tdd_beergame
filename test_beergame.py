@@ -1,7 +1,7 @@
 #encoding: utf8
 
 def test_beergame():
-    assert 4 == ¬”„o‰×”
+    assert 4 == å°å£²å‡ºè·æ•°
 
 
 def main():
